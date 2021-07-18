@@ -1,0 +1,16 @@
+{
+  "item.elfgirl.elf_gold": "Elf Gold",
+  "block.elfgirl.elf_planks": "Elf Planks",
+  "item.elfgirl.elf_spawn_egg": "ElfGirl Spawn Egg",
+  "item.elfgirl.elfmusic": "Elf Music",
+  "item.elfgirl.elf_hoe": "Elf Hoe",
+  "entity.elfgirl.elf": "ElfGirl",
+  "subtitles.elf": "",
+  "block.elfgirl.elf_log": "Elf Log",
+  "block.elfgirl.elf_leaf": "Elf Leaf",
+  "itemGroup.tabelfgirl": "World of Elf",
+  "item.elfgirl.elf_pickaxe": "Elf Pickaxe",
+  "biome.elfgirl.elf_biom": "Elf Biom",
+  "item.elfgirl.elf_axe": "Elf Axe",
+  "item.elfgirl.elfmusic.desc": "Elf Music"
+}

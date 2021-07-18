@@ -1,0 +1,28 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "ElfFolow",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "ElfFolow",
+          "x": 194,
+          "y": 53
+        }
+      }
+    ]
+  }
+}
